@@ -1,0 +1,13 @@
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\CollectionAsserts.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\CollectionAsserts.Tests.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\obj\Debug\CollectionAsserts.Tests.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\obj\Debug\CollectionAsserts.Tests.csproj.CopyComplete
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\obj\Debug\CollectionAsserts.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_7\CollectionAsserts.Tests\obj\Debug\CollectionAsserts.Tests.pdb
